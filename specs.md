@@ -6,7 +6,7 @@
 - MSI MAG B550M Bazooka
 - Aerocool Aero Bronze 650W
 - Kolink Observatory Lite Mesh RGB
-## Almacenamiento
+### Almacenamiento
 - Principal: 
   - SSD NVMe M2 240GB Kingston
 - Secundario:
