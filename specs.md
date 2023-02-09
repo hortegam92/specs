@@ -26,6 +26,7 @@
 - Calentador de tazas, desconozco la marca
 - Cargador inalámbrico de 20W
 - Teléfono Xiaomi Redmi9, como tercera pantalla o controles del OBS
+- Mando 8bitdo Pro 2
 - Brazo para monitores genérico 
 - Luces:
   - Primaria: lámpara genérica con luz cálida
